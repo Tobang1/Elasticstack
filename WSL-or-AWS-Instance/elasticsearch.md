@@ -88,9 +88,6 @@ sudo ufw status
 ```
 curl localhost:9200
 
-if you are using Vscode ssh agent you should port forward into the port section beside the terminal the curl on your browser.
+if you are using Vscode ssh agent you should port forward into the port section beside the terminal the curl on your browser. 
+http://localhost:9200
 ```
-
-
-
-
