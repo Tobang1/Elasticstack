@@ -122,3 +122,7 @@ under search bar search for kibana index pattern (alose located under management
 
   To generate password follow the security repository link here
   ```
+  TO view the file beat log 
+  ```
+  click on discover under analytics in kibana UI then select filebeat and refresh the page.
+```
